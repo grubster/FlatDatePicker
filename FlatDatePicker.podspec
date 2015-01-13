@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/grubster/FlatDatePicker"
   s.license          = "GPL"
   s.author           = { "Pedro Souza" => "pedronicholas.souza@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/FlatDatePicker.git, :tag => 'v0.1.0' }
+  s.source           = { :git => "https://github.com/grubster/FlatDatePicke", :tag => 'v0.1.0' }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
