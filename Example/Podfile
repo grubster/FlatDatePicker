@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'FlatDatePicker', :exclusive => true do
+  pod "FlatDatePicker", :path => "../"
+
+  
+end
