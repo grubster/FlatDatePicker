@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.author           = { "Pedro Souza" => "pedronicholas.souza@gmail.com" }
   s.source           = { :git => "https://github.com/grubster/FlatDatePicke", :tag => 'v0.1.0' }
 
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/*.{h,m}'
